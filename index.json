@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "create-aio-app",
+  "versions": [
+    {
+      "commit": "ece2a2b5132787f44c04f03997976fcd120a315b",
+      "tag": "",
+      "parsed_at": "2026-10-11T23:11:17.363575+00:00"
+    }
+  ]
+}
